@@ -1,0 +1,16 @@
+&&NEWCUSTOMER
+Richard M. Stallman
+0
+billg@microsoft.com
+867-5309
+1600 Pennsylvania Ave NW
+Washington, DC
+Pittsburgh
+20500
+
+
+
+
+Didn't pay his bills on time
+&&ENDCUSTOMER
+&&ENDFILE
